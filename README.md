@@ -1,4 +1,4 @@
-Poker STrategy clasified by Hands
+Poker STrategy clasified by Hands. 
 Based in the Doyle Brunson book Supersystem
 Intended as a didactic activity
 My advice is not to play poker with Money
